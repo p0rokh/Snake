@@ -10,3 +10,4 @@ import Foundation
 
 print("Hello, World!");
 print("First start");
+print("First start 2016");
